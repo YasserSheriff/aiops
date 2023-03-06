@@ -1,2 +1,4 @@
 #config 1
-com.ibm.java.enable: true
+com.instana.plugin.host:
+  tags:
+    - 'dev'
