@@ -1,0 +1,4 @@
+#config 2
+com.instana.plugin.host:
+  tags:
+    - 'dev'
