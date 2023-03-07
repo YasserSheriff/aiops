@@ -15,4 +15,4 @@ com.instana.plugin.mysql:
 # Mysql 2
 com.instana.plugin.mysql:
   user: 'config'
-  password: 'two'
+  password: 'two two'
