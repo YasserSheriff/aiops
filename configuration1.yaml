@@ -2,3 +2,7 @@
 com.instana.plugin.host:
   tags:
     - 'dev'
+    
+# Java Profiling 1
+com.instana.plugin.profiling.java:
+  enabled: true
