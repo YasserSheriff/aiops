@@ -11,3 +11,8 @@ com.instana.plugin.profiling.java:
 com.instana.plugin.mysql:
   user: 'config'
   password: 'two'
+
+# Mysql 2
+com.instana.plugin.mysql:
+  user: 'config'
+  password: 'two'
