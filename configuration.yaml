@@ -6,3 +6,8 @@ com.instana.plugin.host:
 # Java Profiling 2
 com.instana.plugin.profiling.java:
   enabled: true
+
+# Mysql
+com.instana.plugin.mysql:
+  user: 'config'
+  password: 'two'
